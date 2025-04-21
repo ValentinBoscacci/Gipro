@@ -1,0 +1,58 @@
+# Build folders
+**/[Bb]in/
+**/[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+
+# Rider / Resharper
+.idea/
+*.DotSettings.user
+_ReSharper*/
+
+# ASP.NET (Razor Pages / Web API)
+**/wwwroot/dist/
+**/wwwroot/node_modules/
+**/node_modules/
+**/publish/
+**/logs/
+*.log
+
+# Entity Framework / Migrations
+**/Migrations/
+**/*.dbmdl
+
+# Test results / Coverage
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+coverage/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+# Others
+*.tmp
+*.bak
+*.swp
+*.orig
+*.sdf
+*.cache
+
+# Optional: Ignore IDE auto-generated folders
+[Gg]ipro.API/Properties/launchSettings.json
+.vs
