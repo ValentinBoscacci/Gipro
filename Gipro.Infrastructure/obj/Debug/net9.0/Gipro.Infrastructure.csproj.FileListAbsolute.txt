@@ -1,0 +1,17 @@
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Infrastructure.deps.json
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Infrastructure.dll
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Infrastructure.pdb
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Application.dll
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Core.dll
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Application.pdb
+D:\Gipro\Gipro.Infrastructure\bin\Debug\net9.0\Gipro.Core.pdb
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.csproj.AssemblyReference.cache
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.AssemblyInfoInputs.cache
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.AssemblyInfo.cs
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.In.18A2F765.Up2Date
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.dll
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\refint\Gipro.Infrastructure.dll
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.pdb
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\ref\Gipro.Infrastructure.dll

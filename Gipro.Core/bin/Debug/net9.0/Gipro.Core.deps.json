@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Gipro.Core/1.0.0": {
+        "runtime": {
+          "Gipro.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gipro.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Gipro\Gipro.Application\bin\Debug\net9.0\Gipro.Application.deps.json
+D:\Gipro\Gipro.Application\bin\Debug\net9.0\Gipro.Application.dll
+D:\Gipro\Gipro.Application\bin\Debug\net9.0\Gipro.Application.pdb
+D:\Gipro\Gipro.Application\bin\Debug\net9.0\Gipro.Core.dll
+D:\Gipro\Gipro.Application\bin\Debug\net9.0\Gipro.Core.pdb
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.csproj.AssemblyReference.cache
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.AssemblyInfoInputs.cache
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.AssemblyInfo.cs
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.csproj.CoreCompileInputs.cache
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Ap.CFCFB3A0.Up2Date
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.dll
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\refint\Gipro.Application.dll
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.pdb
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\ref\Gipro.Application.dll
