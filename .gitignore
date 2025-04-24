@@ -1,0 +1,62 @@
+## Build Folders (bin and obj)
+**/bin/
+**/obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+
+## NuGet packages
+*.nupkg
+*.snupkg
+**/packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Dotnet CLI
+.dotnet/
+*.runtimeconfig.dev.json
+
+## Rider
+.idea/
+
+## ASP.NET Core
+wwwroot/
+appsettings.*.json
+
+## Logs
+*.log
+
+## Temporary files
+~$*
+*.tmp
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## EF Core Migrations (optional)
+Migrations/
+
+## Secrets and Configs (según tus prácticas)
+secrets.json
+.vs
