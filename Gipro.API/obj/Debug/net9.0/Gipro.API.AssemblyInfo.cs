@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gipro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b40eeed0e04b50bd61c823928e038680f670d477")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gipro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gipro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
