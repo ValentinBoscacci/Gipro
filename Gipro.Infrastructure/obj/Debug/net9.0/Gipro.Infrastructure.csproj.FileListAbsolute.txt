@@ -15,3 +15,4 @@ D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.dll
 D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\refint\Gipro.Infrastructure.dll
 D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.pdb
 D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\ref\Gipro.Infrastructure.dll
+D:\Gipro\Gipro.Infrastructure\obj\Debug\net9.0\Gipro.Infrastructure.sourcelink.json

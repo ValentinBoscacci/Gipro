@@ -4,5 +4,5 @@ namespace Gipro.Application.Services;
 
 public interface IUsuarioService
 {
-    Task RegistrarUsuarioAsync(UsuarioDto usuario);
+    Task RegistrarUsuarioAsync(UsuarioDTO usuario);
 }

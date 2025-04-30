@@ -16,7 +16,7 @@ namespace Gipro.API.Controllers
         }
 
         [HttpPost("registrar")]
-        public async Task<IActionResult> RegistrarUsuario([FromBody] UsuarioDto usuario)
+        public async Task<IActionResult> RegistrarUsuario([FromBody] UsuarioDTO usuario)
         {
             await _usuarioService.RegistrarUsuarioAsync(usuario);
             return Ok(new { mensaje = "Usuario registrado con éxito" });

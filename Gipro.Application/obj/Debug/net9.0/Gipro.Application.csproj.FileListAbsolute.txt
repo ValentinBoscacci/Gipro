@@ -13,3 +13,4 @@ D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.dll
 D:\Gipro\Gipro.Application\obj\Debug\net9.0\refint\Gipro.Application.dll
 D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.pdb
 D:\Gipro\Gipro.Application\obj\Debug\net9.0\ref\Gipro.Application.dll
+D:\Gipro\Gipro.Application\obj\Debug\net9.0\Gipro.Application.sourcelink.json

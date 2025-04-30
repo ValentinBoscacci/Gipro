@@ -1,5 +1,5 @@
 using Gipro.Application.Services;
-using Gipro.Infrastructure;
+using Gipro.Infrastructure.Servicios;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,10 +1,11 @@
-D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.deps.json
-D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.dll
-D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.pdb
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.AssemblyInfoInputs.cache
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.AssemblyInfo.cs
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.csproj.CoreCompileInputs.cache
+D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.sourcelink.json
+D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.deps.json
+D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.dll
+D:\Gipro\Gipro.Core\bin\Debug\net9.0\Gipro.Core.pdb
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.dll
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\refint\Gipro.Core.dll
 D:\Gipro\Gipro.Core\obj\Debug\net9.0\Gipro.Core.pdb
