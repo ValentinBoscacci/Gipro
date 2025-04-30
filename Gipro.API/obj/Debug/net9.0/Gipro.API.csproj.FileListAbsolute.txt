@@ -89,3 +89,4 @@ D:\Gipro\Gipro.API\obj\Debug\net9.0\refint\Gipro.API.dll
 D:\Gipro\Gipro.API\obj\Debug\net9.0\Gipro.API.pdb
 D:\Gipro\Gipro.API\obj\Debug\net9.0\Gipro.API.genruntimeconfig.cache
 D:\Gipro\Gipro.API\obj\Debug\net9.0\ref\Gipro.API.dll
+D:\Gipro\Gipro.API\obj\Debug\net9.0\Gipro.API.sourcelink.json
